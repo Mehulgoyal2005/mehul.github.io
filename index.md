@@ -7,7 +7,7 @@ pursuing Btech in CSE from MNIT Jaipur, skilled at C, C++, Python and HTML. I am
 ---
 ## EDUCATION
 | INSTITUTE | YEAR OF PASSING | DEGREE | GRADE |
-| :------------: | :--------: | :-------: | :-----: |
+|------------|--------|-------|--------|
 | Malaviya National Institute of Technology, Jaipur | 2027 | Btech CSE | 7.6 CGPA |
 |St. paul's School, sumerpur| 2023 | Class 12 | 89.6% |
 |St. paul's School, sumerpur| 2021 | Class 10 | 92.4% |
