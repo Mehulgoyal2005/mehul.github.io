@@ -19,7 +19,6 @@ pursuing Btech in CSE from MNIT Jaipur, skilled at C, C++, Python and HTML. I am
 - Coursework: Data Structures, Algorithms, Competitive Programming, Basics of Data
 Science(NumPy, Pandas)
 - Others: Problem-Solving, Team Collaboration, Mentoring, Communication
----
 ## POSITIONS OF RESPONSIBILITY
 - Executive: Music Club, MNIT Jaipur
 - Executive: Marketing Team, SPHINX 2024
